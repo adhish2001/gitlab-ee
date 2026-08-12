@@ -1,0 +1,4 @@
+gitlab-ee-19.1.0-ee.0.tar.gz filter=lfs diff=lfs merge=lfs -text
+gitlab-ee-19.1.1-ee.0.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
